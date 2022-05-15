@@ -11,11 +11,11 @@ body {
 .slider {
   width: 60%;
   height: 30%;
-	margin: 4rem auto 0;
+  margin: 4rem auto 0;
   overflow: hidden;
 }
 .radio {
-	display: none;
+  display: none;
 }
 .slides-items {
   width: 400%;
@@ -26,8 +26,8 @@ body {
   
 }
 .slides-item {
-	width: 25%;
-	transition: transform ease-in-out .5s, opacity ease-in-out .5s;
+  width: 25%;
+  transition: transform ease-in-out .5s, opacity ease-in-out .5s;
 }
 .slides-item img {
   width: 100%;
@@ -42,12 +42,12 @@ body {
   margin-left: auto;
 }
 .btn {
-	cursor: pointer;
-	display: inline-block;
+  cursor: pointer;
+  display: inline-block;
   width: 1rem;
   height: 1rem;
   margin: 0.5rem;
-	border-radius: 50%;
+  border-radius: 50%;
   background: #71abfe;
 }
 
