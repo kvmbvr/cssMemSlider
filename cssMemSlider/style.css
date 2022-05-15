@@ -22,9 +22,6 @@ body {
   height: 100%;
   display: flex;
 }
-.slides {
-  
-}
 .slides-item {
   width: 25%;
   transition: transform ease-in-out .5s, opacity ease-in-out .5s;
