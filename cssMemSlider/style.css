@@ -41,8 +41,8 @@ body {
 .btn {
   cursor: pointer;
   display: inline-block;
-  width: 1rem;
-  height: 1rem;
+  min-width: 1rem;
+  min-height: 1rem;
   margin: 0.5rem;
   border-radius: 50%;
   background: #71abfe;
